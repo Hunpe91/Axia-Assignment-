@@ -1,1 +1,1 @@
-This is my first assignmnt creating a recipe page. I completed this challenge
+This is my first assignment creating a recipe page. I completed this challenge
