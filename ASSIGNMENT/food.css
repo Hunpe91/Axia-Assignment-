@@ -4,7 +4,7 @@ body {
     padding: 20px;
     background-color: #f5e6d3;
 }
-.container {
+.Container {
     max-width: 800px;
     margin: 0 auto;
     background-color: white;
